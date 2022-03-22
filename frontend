@@ -1,0 +1,35 @@
+<div class="inline-flex flex-col space-y-24 items-center justify-start px-96 pt-20 pb-96 bg-gray-900" style="width: 2094px; height: 2014px;">
+    <p class="text-4xl font-bold text-center text-white">The Universal Cross-Chain <br/>Liquidity Network</p>
+    <div class="inline-flex space-x-20 items-center justify-end px-0.5" style="width: 1100px; height: 98.28px;">
+        <div class="flex items-center justify-center w-1/5 h-full py-4 bg-gray-800 shadow rounded-2xl">
+            <div class="inline-flex flex-col space-y-2.5 items-center justify-end flex-1 h-full">
+                <p class="w-full h-9 text-3xl font-bold leading-10 text-center text-white">$7.5B</p>
+                <p class="w-full h-5 text-sm leading-7 text-center text-gray-400">Total Bridge Volume</p>
+            </div>
+        </div>
+        <div class="flex items-center justify-center w-1/5 h-full py-4 bg-gray-800 shadow rounded-2xl">
+            <div class="inline-flex flex-col space-y-2.5 items-center justify-end flex-1 h-full">
+                <p class="w-full h-9 text-3xl font-bold leading-10 text-center text-white">$16.52B</p>
+                <p class="w-full h-5 text-sm leading-7 text-center text-gray-400">Total Pool Volume</p>
+            </div>
+        </div>
+        <div class="flex items-center justify-center w-1/5 h-full py-4 bg-gray-800 shadow rounded-2xl">
+            <div class="inline-flex flex-col space-y-2.5 items-center justify-end flex-1 h-full">
+                <p class="w-full h-9 text-3xl font-bold leading-10 text-center text-white">$766.36M</p>
+                <p class="w-full h-5 text-sm leading-7 text-center text-gray-400">Total Value Locked</p>
+            </div>
+        </div>
+        <div class="flex items-center justify-center w-1/5 h-full py-4 bg-gray-800 shadow rounded-2xl">
+            <div class="inline-flex flex-col space-y-2.5 items-center justify-end flex-1 h-full">
+                <p class="w-full h-9 text-3xl font-bold leading-10 text-center text-white">$510M</p>
+                <p class="w-full h-5 text-sm leading-7 text-center text-gray-400">Market Cap</p>
+            </div>
+        </div>
+    </div>
+    <div class="inline-flex items-start justify-start p-2.5" style="width: 427px; height: 68px;">
+        <p class="text-4xl font-bold text-center text-white">Features You Will Love</p>
+    </div>
+    <div class="inline-flex items-start justify-start p-2.5" style="width: 820px; height: 68px;">
+        <p class="text-xl text-center text-gray-500" style="width: 800px;">Bridge, swap and earn yield on the fastest and most liquid protocol. Each bridge transaction receives a gas token airdrop on the destination chain.</p>
+    </div>
+</div>
